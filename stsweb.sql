@@ -41,11 +41,11 @@ CREATE TABLE `barang` (
 --
 
 INSERT INTO `barang` (`id`, `kode_barang`, `nama_brg`, `kategori`, `merk`, `jumlah`) VALUES
-(1, '001', 'Bola Voli', 'Alat Olahraga', 'Molten', 16),
-(2, '002', 'Bola Basket', 'Alat Olahraga', 'Super-K', 9),
-(3, '003', 'Laptop', 'Alat Elektronik', 'Lenovo', 23),
-(4, '004', 'Macbook', 'Alat Elektronik', 'Apple', 26),
-(5, '005', 'Kabel', 'Alat Elektronik', 'Belden', 59);
+(1, '1001', 'Bola Voli', 'Alat Olahraga', 'Molten', 16),
+(2, '2002', 'Bola Basket', 'Alat Olahraga', 'Super-K', 9),
+(3, '3003', 'Laptop', 'Alat Elektronik', 'Lenovo', 23),
+(4, '4004', 'Macbook', 'Alat Elektronik', 'Apple', 26),
+(5, '5005', 'Kabel', 'Alat Elektronik', 'Belden', 59);
 
 -- --------------------------------------------------------
 
